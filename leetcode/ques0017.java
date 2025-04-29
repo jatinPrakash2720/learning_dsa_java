@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ques0017 {
+public class Ques0017 {
     public List<String> letterCombinations(String digits) {
         List<String> result = new ArrayList<>();
         if (digits == null || digits.length() == 0) {
@@ -35,7 +35,7 @@ public class ques0017 {
     }
 
     public static void main(String[] args) {
-        ques0017 solution = new ques0017();
+        Ques0017 solution = new Ques0017();
         System.out.println(solution.letterCombinations("23"));
         
     }

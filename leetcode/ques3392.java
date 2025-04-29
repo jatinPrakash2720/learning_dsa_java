@@ -1,4 +1,4 @@
-public class ques3392 {
+public class Ques3392 {
     /**
      * Counts the number of subarrays of length 3 where the sum of the first and third elements
      * equals exactly half of the second element.
