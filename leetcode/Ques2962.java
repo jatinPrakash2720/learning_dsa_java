@@ -1,6 +1,6 @@
 public class Ques2962 {
     public static void main(String[] args) {
-        // TLC issue
+        // T
         int[] nums = {1,2,3,4,5};
         Solutio sol = new Solutio();
         System.out.println(sol.countSubarrays(nums,6282));
