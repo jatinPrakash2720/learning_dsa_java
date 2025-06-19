@@ -16,6 +16,7 @@ class KadanAlgo{
             }
 
             ms = Math.max(cs, ms);
+            
         }
         return ms;
     }
